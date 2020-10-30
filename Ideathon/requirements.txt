@@ -1,0 +1,8 @@
+flask
+opencv-contrib-python-headless
+tensorflow
+gunicorn
+Werkzeug
+Jinja2
+itsdangerous
+MarkupSafe
